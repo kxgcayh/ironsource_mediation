@@ -1,3 +1,13 @@
+## 3.0.1 , 2024
+
+- Android SDK: 8.4.0
+- iOS SDK: 8.4.0
+
+## 3.0.0 , 2024
+
+- Android SDK: 8.4.0
+- iOS SDK: 8.4.0
+
 ## 2.0.0 , 2024
 
 - Android SDK: 8.1.0
